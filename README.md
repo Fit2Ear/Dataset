@@ -4,6 +4,7 @@ We appreciate your interest in accessing the Fit2Ear Dataset. The dataset was up
 
 Certainly you can require access to the dataset before the review process is finalized, please feel free to contact the [author](mailto:haibin.zhao@kit.edu).
 
+Demonstration video of the infrastructures for data capturing: https://www.youtube.com/watch?v=yXiRKGrGgdg
 Best regards,
 
 Fit2Ear Group
